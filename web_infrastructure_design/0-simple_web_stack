@@ -1,7 +1,7 @@
 # Simple Web Stack
 
 ## Architecture Diagram
-
+![Simple Web Stack](https://github.com/CODERrazan/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/img/task0.png)
 
 ## Components
 - **Domain Name**: www.foobar.com points to IP 8.8.8.8 using a **CNAME/A record**.
